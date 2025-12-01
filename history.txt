@@ -1,0 +1,16 @@
+  688  git add text.txt
+  689  git commit -m "first commit for branch main"
+  690  git push -u origin main
+  691  git che
+  692  git checkout feature
+  693  git push -u origin feature
+  694  git commit --amend -m "Update README and gitignore in feature branch ammend"\n
+  695  git push
+  696  git push -u origin feature
+  697  git push --force-with-lease\n
+  698  git checkout main\n
+  699  git merge feature\n
+  700  git merge feature
+  701  git status
+  702  git commit -m "merged braches"
+  703  git push
